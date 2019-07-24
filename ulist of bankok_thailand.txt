@@ -1,0 +1,14 @@
+<div class="property_data">
+												<ul>
+													<li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Home Design</li>
+													<li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Civil Engineering </li>
+													<li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Interior Design</li>
+													<li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>Plumbing</li>
+												</ul>
+
+												<ul>
+													<li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Carpenting</li>
+													<li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i> Cleaning </li>
+													<li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>Renovation </li>
+													<li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>Repair</li>
+												</ul>
